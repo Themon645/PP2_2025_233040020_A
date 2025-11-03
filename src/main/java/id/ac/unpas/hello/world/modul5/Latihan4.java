@@ -34,15 +34,15 @@ public class Latihan4 {
               
         //kita bisa tambahkan komponen lain dan beri aksi
         JButton buttonWest = new JButton("WEST");
-  buttonWest.addActionListener(e -> { e.getActionCommand(); label.setText("Tombol di WEST diklik!"); });
+  buttonWest.addActionListener(e -> {label.setText("Tombol di WEST diklik!"); });
         frame.add(buttonWest, BorderLayout.WEST);
 
         JButton buttonEast = new JButton("EAST");
-  buttonEast.addActionListener(e -> { e.getActionCommand(); label.setText("Tombol di EAST diklik!"); });
+        buttonEast.addActionListener(e -> {label.setText("Tombol di EAST diklik!"); });
         frame.add(buttonEast, BorderLayout.EAST);
 
         JButton buttonCenter = new JButton("CENTER");
-  buttonCenter.addActionListener(e -> { e.getActionCommand(); label.setText("Tombol di CENTER diklik!"); });
+        buttonCenter.addActionListener(e -> {label.setText("Tombol di CENTER diklik!"); });
         frame.add(buttonCenter, BorderLayout.CENTER);
 
 

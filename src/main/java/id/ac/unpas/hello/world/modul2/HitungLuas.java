@@ -1,3 +1,4 @@
+package id.ac.unpas.hello.world.modul2;
 
 public class HitungLuas {
     public static void main(String[] args) {
