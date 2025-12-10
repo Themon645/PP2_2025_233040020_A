@@ -1,5 +1,6 @@
 id\ac\unpas\hello\world\modul8\controller\PersegiPanjangController.class
 id\ac\unpas\hello\world\modul7\ManajemenNilaiSiswaApp$1.class
+id\ac\unpas\hello\world\modul9\UserConfig.class
 id\ac\unpas\hello\world\modul3\ProgramSiswa.class
 id\ac\unpas\hello\world\modul4\Lingkaran.class
 id\ac\unpas\hello\world\modul3\DataDanVariabel.class
@@ -22,12 +23,12 @@ id\ac\unpas\hello\world\modul8\controller\PersegiPanjangController$ResetListener
 id\ac\unpas\hello\world\Modul6\Latihan2.class
 id\ac\unpas\hello\world\modul4\DapatDiwarnai.class
 id\ac\unpas\hello\world\modul7\ManajemenNilaiSiswaApp$2.class
-id\ac\unpas\hello\world\modul8\model\PensegiPanjangModel.class
 id\ac\unpas\hello\world\modul5\Latihan1.class
 id\ac\unpas\hello\world\modul8\view\PersegiPanjangView.class
 id\ac\unpas\hello\world\Modul6\Latihan1.class
 id\ac\unpas\hello\world\modul8\controller\PersegiPanjangController$HitungKelilingListener.class
 id\ac\unpas\hello\world\modul1\HelloWorld.class
+id\ac\unpas\hello\world\modul8\model\PersegiPanjangModel.class
 id\ac\unpas\hello\world\modul8\controller\PersegiPanjangController$HitungListener.class
 id\ac\unpas\hello\world\modul3\DemoOperator.class
 id\ac\unpas\hello\world\modul3\ProgramBukuError.class
@@ -39,6 +40,7 @@ id\ac\unpas\hello\world\modul5\Latihan2$1.class
 id\ac\unpas\hello\world\modul3\Siswa.class
 id\ac\unpas\hello\world\Modul6\ContohBorderLayout.class
 id\ac\unpas\hello\world\modul3\Buku.class
+id\ac\unpas\hello\world\modul9\AplikasiFileIO.class
 id\ac\unpas\hello\world\modul5\Latihan4.class
 id\ac\unpas\hello\world\modul2\CekGanjilGenap.class
 id\ac\unpas\hello\world\modul4\Persegi.class
